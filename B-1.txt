@@ -4,3 +4,4 @@ b-1 2 3 s a
 b-1 2 3 s a
 b-1 2 3 s a
 b-1 2 3 s a s
+b-1 2 3 s a s a
